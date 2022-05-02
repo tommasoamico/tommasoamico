@@ -4,3 +4,5 @@ I am a Master student in Physics of Data at the university of Padua, in my Githu
 
 ## Contact info :raising_hand_man:
 :envelope: tommaso99.amico@gmail.com
+
+[![inkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tommaso-amico-24610a231/)
